@@ -1,0 +1,92 @@
+@charset "UTF-8";
+HTML body{
+	
+}
+.header {
+  color: #ffffff;
+  background-color: rgba(59, 61, 64, 0.5);
+	height: 300px;
+	width:100%;
+}
+.artistList {
+    font-family: Raleway;
+	color: #3b3d40;
+	font-size: 52px;
+	font-weight: 700;
+	line-height: 55px;
+}
+.artists{
+	display: inline-grid;
+	margin: 10px;
+	padding: 20px;
+	border-radius: 4px;
+	background-color: #ffffff;
+	box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.1);
+	width: 15%;
+	align-content: center;
+}
+.artist1img{
+	
+}
+
+h1 {
+  font-family: Raleway;
+  font-size: 52px;
+  font-weight: 700;
+  padding-left: 4%;
+  padding-top: 10px;
+  text-align: center;
+}
+
+h2{
+  width: 36.4%;
+  height: 0.6%;
+  font-family: Raleway;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 54.6px;
+  padding-left: 30%;
+  padding-top: 50px;
+  text-align: center;
+}
+
+h3{
+	font-family: Raleway;
+	color: #3c3d41;
+	font-size: 16px;
+	font-weight: 700;
+}
+.headingp {
+  font-family: 'Adobe Caslon Pro';
+  font-size: 24px;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left:4%;
+  text-align: center;
+}
+
+.artistinfo{
+	font-family: 'Adobe Caslon Pro';
+	color: #656b6f;
+	font-size: 16px;
+	line-height: normal;
+}
+.videos{
+	width:100%;
+	background-color: darkgray;
+	display: inline-grid;
+
+}
+
+iframe{
+		padding-left:30%;
+}
+.viddescription{
+	padding-left:30%;
+}
+
+.logo{
+	padding:1.5%;
+	height: 50px;
+	width:130px;
+}
